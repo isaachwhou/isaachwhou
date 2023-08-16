@@ -1,0 +1,12 @@
+# Use the official image as a parent image.
+FROM mysql:8.1.0
+
+# Set the working directory in the container
+WORKDIR /docker-entrypoint-initdb.d
+
+# Copy the SQL script into the container
+COPY 9900.sql .
+
+# Set environment variables
+ENV MYSQL_ROOT_PASSWORD=rootroot
+ENV MYSQL_DATABASE=waitsys

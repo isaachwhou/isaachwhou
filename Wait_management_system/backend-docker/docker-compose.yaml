@@ -1,0 +1,32 @@
+services:
+  mysql:
+    build:
+      context: .
+      dockerfile: Dockerfile.mysql
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootroot
+      MYSQL_DATABASE: waitsys
+    networks:
+      - app-network
+
+  app:
+    depends_on:
+      - mysql
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    restart: always
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  db_data:
