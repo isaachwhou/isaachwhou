@@ -1,0 +1,8 @@
+This file is introduce the project file structure.
+
+../database: the .sql file of database and ER diagram
+controller: the package for all controller classes
+entity: the package for all entity classes (table class for database)
+service: the package for all service classes
+service.impl: the package for all implementations of service classes
+mapper: all jdbc .xml files
