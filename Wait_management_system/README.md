@@ -1,5 +1,7 @@
 # Wait Management System
 
+Develop a web application to streamline order placement in a restaurant for customers, minimizing the need for staff assistance and reducing miscommunication
+
 The fronted and backend should run respectively.
 
 ## Frontend
