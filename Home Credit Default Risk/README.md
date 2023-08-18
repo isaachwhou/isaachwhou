@@ -5,3 +5,5 @@ The primary objective is to create a machine learning model on the provided trai
 - Logistic Regression and Decision Trees
 - 5 fold cross validation used for fitting
 - Hyper-parameter Tuning
+
+Data: https://www.kaggle.com/competitions/home-credit-default-risk/data
