@@ -2,5 +2,5 @@
   
 - Home Credit Default Risk: Create a machine learning model on the provided training data to predict the probability of default on the test data.
 
-- Data Analytics and Visualization: HR Dashboard
+- Data Analytics and Visualization: HR Dashboard (SQL and Tableau)
 https://public.tableau.com/app/profile/isaac.hou1916/viz/HRAnalytics_16923482580880/Dashboard2
