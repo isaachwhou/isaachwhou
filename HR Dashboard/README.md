@@ -1,7 +1,8 @@
 ## Tableau: 
 https://public.tableau.com/app/profile/isaac.hou1916/viz/HRAnalytics_16923482580880/Dashboard2 
 
-<img width="686" alt="image" src="https://github.com/isaachwhou/isaachwhou/assets/59119713/7baef080-c886-497e-9873-5d9126fcc56d">
+![Dashboard 2](https://github.com/isaachwhou/isaachwhou/assets/59119713/cffb9b3a-c311-4339-a912-bf3ffb4ccb9b)
+
 
 ## PowerBi: 
 HR_Dashboard.pbix
