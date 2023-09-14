@@ -1,8 +1,8 @@
-Project Background
+## HR Dashboard
+- Data Analytics and Visualization: SQL, Tableau, PowerBI
 
-Transport for NSW wishes to undertake research and trials to move NSW towards a future with Connected and Autonomous Vehicles (CAV) and has provided $2m for this.
-You need to design a project that will:
-- Retrofit 12 road vehicle with CAV capabilities
-- Integrate sensors and AI systems
-- Trial the vehicles on NSW roads and obtain data from trials to assess the compatibility of NSW road infrastructure.
-- Make recommendations on how CAV data can contribute to the next generation of AI-based technologies of interest to TfNSW, which are: network management, incident response, and positioning.
+## Home Credit Default Risk
+- Create a machine learning model on the provided training data to predict the probability of default on the test data.
+
+## Wait management system
+- Develop a web application to streamline order placement in a restaurant for customers, minimizing the need for staff assistance and reducing miscommunication
