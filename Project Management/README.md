@@ -1,4 +1,4 @@
-## Project Background
+Project Background
 
 Transport for NSW wishes to undertake research and trials to move NSW towards a future with Connected and Autonomous Vehicles (CAV) and has provided $2m for this.
 You need to design a project that will:
